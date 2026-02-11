@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcoIntimates - Sustainable Marketplace
 
 A React-based e-commerce platform built for learning **GitHub** and **DevOps** branching strategies.
@@ -33,3 +34,6 @@ This project uses **Google Gemini AI** to:
 - **Tailwind CSS** (Styling)
 - **Google Generative AI SDK**
 - **FontAwesome** (Icons)
+=======
+# Usedunderwear
+>>>>>>> 0537f59358c988dc83e2a4c46f4407d7abfe57f6
